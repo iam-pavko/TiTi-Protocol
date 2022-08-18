@@ -24,7 +24,7 @@ This is a new design paradigm for algorithmic stablecoins. It is responsible for
 
 ### ReOrders
 
-This is the core mechanism for controlling TiTi's price to remain stable in TiTi Protocol. It is built on CFMM, which greatly reduces gas consumption while realize price stability with utmost efficiency.
+This is the core mechanism for controlling TiUSD price to remain stable in TiTi Protocol. It is built on CFMM, which greatly reduces gas consumption while realize price stability with utmost efficiency.
 
 ### Market Maker Fund
 
